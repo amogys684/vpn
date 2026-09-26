@@ -1,44 +1,407 @@
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@178.215.238.30:443/?sni=germany1.noesissite.ru#YouTube_DE_Frankfurt_Hy2
-hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@finlandi.blokinet3.ru:443?sni=finlandi.blokinet3.ru&alpn=h3&insecure=0#YouTube_NL_Amsterdam_Hy2
-hysteria2://e04a51d1-0450-4919-b924-bd08501934bf@2.59.163.171:443?headerType=none&encryption=none&sni=2.59.163.171.nip.io&insecure=0#YouTube_PL_Warsaw_Hy2
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.214:8443?sni=mercedes-grape.yyuyy.com#YouTube_FR_Paris_Hy2
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.133:8443?sni=grape-zet-turbo-nl.yyuyy.com#YouTube_DE_Frankfurt_Hy2_2
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443?insecure=0&sni=grape-turbo-fr.roxa.org#YouTube_UK_London_Hy2
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443?headerType=none&encryption=none&sni=taga10.api3-max.ru&insecure=0#YouTube_TR_Basaksehir_Hy2
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa10.api3-max.ru:443?sni=wopa10.api3-max.ru&insecure=0#YouTube_UK_Leyton_Hy2
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?sni=usa1.spectrumproxy.shop#YouTube_US_NewYork_Hy2
-hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443?sni=prodfr.h2corp.org#YouTube_Anycast_DE_FR_Hy2
-vless://884d811f-577b-421e-aabb-608660b0ecfa@31.77.169.70:9830?encryption=none&security=reality&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun&fp=safari#PC_AT_Vienna_VLESS_gRPC
-vless://e22418f6-8fe0-4088-9dc3-ec5e1c78b6b8@pro-fi.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=firefox&sni=pro-fi.emrata.top&flow=xtls-rprx-vision#PC_FI_Helsinki_VLESS_Reality
-vless://9a6ee382-75c3-4cc5-bacd-66494cf99daa@138.124.70.44:8443?security=reality&encryption=none&pbk=UZn-GKszDMErkbxDZAMbPmOMBk2nwEc7Av5uhZFMkgI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=7a3f9c2e1b8d4506#PC_FR_Paris_VLESS_Reality
-vless://d7790b85-9659-4558-a405-e0ab57d32984@195.58.140.146:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=d1-fr.cloud-cdn.xyz&alpn=http/1.1&fp=qq&pbk=lRuJPDrUb0b32-47hl4BgDoQutqmkuW31N4qVxbDgmI&sid=dc927a04e8572c61&packetEncoding=xudp#PC_FR_Paris_VLESS_Reality_2
-vless://bf0899bc-5abd-40b8-b376-f108e2d8cb6f@vs-de7.vibesignal.space:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=cdnjs.cloudflare.com&fp=edge&pbk=tIhG_kpCdobHSuOL8G-zqmbk-hkYBkWZbcTBKZ-erjw&sid=04c24c5bdd4c1164#PC_DE_Frankfurt_VLESS_Reality
-vless://64f65f85-1e4d-4a61-9af5-52292fec366c@free-de-05.la-la-land.top:443?type=tcp&security=reality&pbk=uRuW2K9JNw64jgAVEdV39NMh_udtVD6xxEV-dQFATHY&fp=firefox&sni=free-de-05.la-la-land.top#PC_DE_Frankfurt_VLESS_Reality_2
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@gr.tunnelpoint.space:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=gr.tunnelpoint.space&fp=qq&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584#PC_GR_Thessaloniki_VLESS_Reality
-vless://a046297b-0f66-4514-8d4f-2a7d200d8d37@2.26.70.181:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=1.aws-lbr.amazonaws.com&fp=qq&pbk=s2vIO76C2QmrvyeujAWxTmQtQ51bwMTWDgQESIm8J1c&sid=bdcaf30f86&spx=%2F4933617c03ba762#PC_NL_Amsterdam_VLESS_Reality
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@getsavesafe.net:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=getsavesafe.net&fp=qq&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661#PC_NL_Eygelshoven_VLESS_Reality
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@try.north-1winter.cv:443?security=reality&encryption=none&pbk=rNBFVzV18kAj_ei4AqsgZywzmvD36WK9hcRdVnpHPAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru&sid=c0573c8280a0c019#PC_TR_VLESS_Reality
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@uwu.spectrumproxy.shop:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uwu.spectrumproxy.shop&fp=random&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&sid=143627f1&type=tcp&headerType=none#PC_US_FortLauderdale_VLESS_Reality
-vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=swcdn.apple.com&fp=chrome&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4#PC_US_NewYork_VLESS_Reality
-vless://942a6037-559d-476c-b7e2-2f6b4df101d6@94.183.170.95:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.amd.com&fp=firefox&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&sid=635a76c25a4b1820&path=%2Fxh#XHTTP_EE_Tallinn_Reality
-vless://90c09d42-c5f6-4602-bba8-957df1ed5598@securitytrails.com:443?type=xhttp&security=tls&fp=chrome&sni=cnn.liamlomson.dpdns.org&path=/forall#XHTTP_DE_securitytrails_TLS
-vless://b7977b65-cfd8-4db9-a029-6ef014a4ae4a@165.215.250.12:2086?encryption=none&security=none&type=xhttp&host=dev.speciq.co&path=%2F&mode=packet-up#XHTTP_DE_Frankfurt_none_1
-vless://b7977b65-cfd8-4db9-a029-6ef014a4ae4a@217.163.76.118:2086?type=xhttp&headerType=none&security=none&encryption=none&path=%2F&host=xvh.andishehparenting.com#XHTTP_DE_Frankfurt_none_2
-vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@104.156.81.2:80?encryption=none&security=none&type=xhttp&host=lowtechdevelopersltd.co.uk&path=%2Fvideo%3Fed%3D1024&mode=auto#XHTTP_DE_Nuremberg_none_1
-vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@104.156.85.44:80?encryption=none&security=none&type=xhttp&host=lowtechdevelopersltd.co.uk&path=%2Fvideo%3Fed%3D1024&mode=auto#XHTTP_DE_Nuremberg_none_2
-vless://52d0b2d5-a003-4509-ab70-d1d720a14cd7@37.221.210.181:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=hu007.bearbeer.digital&fp=qq&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&path=%2F#XHTTP_HU_Reality
-vless://d7790b85-9659-4558-a405-e0ab57d32984@31.56.186.99:443?encryption=none&type=xhttp&security=reality&sni=www.amd.com&fp=qq&pbk=YGySmiYwnrw_7ABx4RaxSENH9lhyopvJH0ZnEPS_lRc&sid=c1ee14fa93b83bae&path=/api&mode=auto#XHTTP_NL_Amsterdam_Reality
-vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:443?security=reality&type=xhttp&path=%2F&sni=swcdn.apple.com&fp=chrome&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4#XHTTP_US_NewYork_Reality
-trojan://c7d3ddf6-345e-4616-ba75-d43efc8f9a7a@77.73.131.148:10446?mode=auto&path=%2Fvideo&security=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=yandex.ru&type=xhttp#XHTTP_Anycast_Trojan
-vless://c7e9c591-2764-423a-afca-efbd010fd396@147.45.196.240:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#Android_FI_Helsinki_WS_1
-vless://c7e9c591-2764-423a-afca-efbd010fd396@195.133.94.188:2053?type=ws&headerType=none&security=tls&encryption=none&sni=forfreeuse.sub-flow.online&fp=chrome&path=%2F&host=forfreeuse.sub-flow.online&insecure=0#Android_FI_Helsinki_WS_2
-vless://c7e9c591-2764-423a-afca-efbd010fd396@31.59.185.123:2053?encryption=none&security=tls&sni=forfreeuse.sub-flow.online&type=ws&fp=chrome&path=/&host=forfreeuse.sub-flow.online&packetEncoding=xudp&udp=1#Android_FI_Helsinki_WS_3
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#Android_FR_Aubervilliers_WS
-vless://5d3abfa9-bdf5-4334-8383-dcf92df802a5@172.64.80.1:8443?encryption=none&fp=chrome&host=ad-018.cloud25075.info&path=%2F&security=tls&sni=ad-018.cloud25075.info&type=ws#Android_FR_Wattrelos_WS
-vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@172.64.80.1:8443?security=tls&type=ws&path=/&host=ad-005.pixel9xdmq.info&sni=ad-005.pixel9xdmq.info&fp=chrome#Android_DE_WS
-vless://26e354ba-a3ee-45f0-bf68-422e27e12884@152.233.31.80:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#Android_CH_Zurich_gRPC
-vless://d5e6daf4-b11c-42fa-9e2d-ae1d3f5c70d3@152.53.169.29:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&fp=ios#Android_US_gRPC
-vless://74ae950f-95c6-417b-9409-a0f58be33429@195.123.216.28:443?type=grpc&security=reality&sni=www.intel.com&pbk=RRhxkmf4YgwjyNSikyomlL6Me9329CTvZbAMFWakWjE&sid=4e6e39c4#Android_NL_Amsterdam_gRPC
-vless://33cbc251-1ed2-49bd-bd23-e1d3d36137d6@jp-1.coinbridge.nl:443?type=grpc&headerType=none&security=reality&encryption=none&sni=google.com&fp=random&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&sid=d5c7f84e37e0c12d&serviceName=data-sync#Android_JP_Shibuya_gRPC
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&fp=edge#Android_PL_Warsaw_Trojan_WS
-vless://ecc1e369-4aaf-441a-b919-6e7455dd8354@152.53.169.29:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#Android_US_gRPC_2
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>📺 Мой ТВ-Канал</title>
+  <!-- HLS.js — библиотека для воспроизведения видеопотоков -->
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <style>
+    /* ===== СБРОС И БАЗОВЫЕ СТИЛИ ===== */
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #0a0a0f;
+      color: #e0e0e0;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    /* ===== ШАПКА ===== */
+    header {
+      background: linear-gradient(135deg, #1a1a2e, #16213e);
+      padding: 12px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 2px solid #e94560;
+      height: 60px;
+    }
+
+    header h1 {
+      font-size: 1.4rem;
+      color: #e94560;
+      text-shadow: 0 0 10px rgba(233, 69, 96, 0.5);
+    }
+
+    header .live-badge {
+      background: #e94560;
+      color: white;
+      padding: 4px 12px;
+      border-radius: 4px;
+      font-size: 0.8rem;
+      font-weight: bold;
+      animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+
+    /* ===== ОСНОВНОЙ КОНТЕЙНЕР ===== */
+    .container {
+      display: flex;
+      height: calc(100vh - 60px);
+    }
+
+    /* ===== БОКОВАЯ ПАНЕЛЬ КАНАЛОВ ===== */
+    .sidebar {
+      width: 300px;
+      background: #111118;
+      border-right: 1px solid #222;
+      overflow-y: auto;
+      flex-shrink: 0;
+    }
+
+    .sidebar h2 {
+      padding: 16px;
+      font-size: 1rem;
+      color: #888;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      border-bottom: 1px solid #222;
+    }
+
+    .channel-item {
+      display: flex;
+      align-items: center;
+      padding: 12px 16px;
+      cursor: pointer;
+      border-bottom: 1px solid #1a1a1a;
+      transition: all 0.2s;
+    }
+
+    .channel-item:hover {
+      background: #1a1a2e;
+    }
+
+    .channel-item.active {
+      background: linear-gradient(90deg, #e94560, transparent);
+      border-left: 3px solid #e94560;
+    }
+
+    .channel-number {
+      background: #222;
+      color: #e94560;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.8rem;
+      font-weight: bold;
+      margin-right: 12px;
+      flex-shrink: 0;
+    }
+
+    .channel-item.active .channel-number {
+      background: #e94560;
+      color: white;
+    }
+
+    .channel-info h3 {
+      font-size: 0.95rem;
+      color: #fff;
+    }
+
+    .channel-info p {
+      font-size: 0.75rem;
+      color: #666;
+      margin-top: 2px;
+    }
+
+    /* ===== ОБЛАСТЬ ПЛЕЕРА ===== */
+    .player-area {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      background: #000;
+      position: relative;
+    }
+
+    .video-wrapper {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #000;
+      position: relative;
+    }
+
+    video {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      background: #000;
+    }
+
+    /* ===== ЗАГЛУШКА ===== */
+    .placeholder {
+      position: absolute;
+      text-align: center;
+      color: #444;
+    }
+
+    .placeholder .icon {
+      font-size: 5rem;
+      margin-bottom: 16px;
+    }
+
+    .placeholder p {
+      font-size: 1.1rem;
+    }
+
+    /* ===== ИНФОРМАЦИОННАЯ ПАНЕЛЬ ===== */
+    .info-bar {
+      background: linear-gradient(135deg, #1a1a2e, #16213e);
+      padding: 12px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-top: 1px solid #222;
+      min-height: 50px;
+    }
+
+    .now-playing {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .now-playing .dot {
+      width: 10px;
+      height: 10px;
+      background: #e94560;
+      border-radius: 50%;
+      animation: pulse 1.5s infinite;
+    }
+
+    .now-playing span {
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+
+    .controls button {
+      background: #222;
+      color: #fff;
+      border: 1px solid #333;
+      padding: 8px 16px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 0.85rem;
+      transition: all 0.2s;
+    }
+
+    .controls button:hover {
+      background: #e94560;
+      border-color: #e94560;
+    }
+
+    /* ===== АДАПТИВНОСТЬ ===== */
+    @media (max-width: 768px) {
+      .container { flex-direction: column-reverse; }
+      .sidebar {
+        width: 100%;
+        height: 180px;
+        border-right: none;
+        border-top: 1px solid #222;
+      }
+      .sidebar h2 { display: none; }
+      .channel-item { padding: 8px 12px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ШАПКА -->
+  <header>
+    <h1>📺 Мой ТВ-Канал</h1>
+    <div class="live-badge">● LIVE</div>
+  </header>
+
+  <!-- ОСНОВНОЙ КОНТЕЙНЕР -->
+  <div class="container">
+
+    <!-- БОКОВАЯ ПАНЕЛЬ -->
+    <div class="sidebar">
+      <h2>📡 Каналы</h2>
+      <div id="channel-list"></div>
+    </div>
+
+    <!-- ПЛЕЕР -->
+    <div class="player-area">
+      <div class="video-wrapper">
+        <video id="video-player" controls></video>
+        <div class="placeholder" id="placeholder">
+          <div class="icon">📺</div>
+          <p>Выберите канал из списка слева</p>
+        </div>
+      </div>
+
+      <div class="info-bar">
+        <div class="now-playing">
+          <div class="dot" id="status-dot" style="display:none;"></div>
+          <span id="now-playing-text">Канал не выбран</span>
+        </div>
+        <div class="controls">
+          <button onclick="toggleFullscreen()">⛶ Полный экран</button>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    // ============================================================
+    //  📋 СПИСОК КАНАЛОВ — РЕДАКТИРУЙТЕ ЗДЕСЬ!
+    //
+    //  Формат:
+    //    name  — название канала
+    //    desc  — краткое описание
+    //    url   — ссылка на HLS-поток (.m3u8)
+    //
+    //  Где взять потоки:
+    //    • https://github.com/iptv-org/iptv — тысячи бесплатных
+    //      каналов со всего мира (ищите ссылки .m3u8)
+    //    • Свой сервер (OBS + nginx-rtmp, например)
+    // ============================================================
+    const channels = [
+      {
+        name: "🎬 Big Buck Bunny",
+        desc: "Тестовый поток (демо)",
+        url: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      },
+      {
+        name: "🌍 France 24 (EN)",
+        desc: "Новости на английском",
+        url: "https://stream.france24.com/live/hls/f24_en_hi.m3u8"
+      },
+      {
+        name: "🎵 Lofi Hip Hop",
+        desc: "Музыка 24/7",
+        url: "https://play.streamafrica.net/lofiradio"
+      },
+      {
+        name: "🔬 NASA TV",
+        desc: "Космос и наука",
+        url: "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8"
+      },
+      {
+        name: "📰 DW News",
+        desc: "Немецкие новости (EN)",
+        url: "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+      }
+    ];
+
+    // ============================================================
+    //  ДВИЖОК ПЛЕЕРА — НЕ ТРОГАЙТЕ, ЕСЛИ НЕ ЗНАЕТЕ, ЧТО ДЕЛАЕТЕ
+    // ============================================================
+    const video = document.getElementById('video-player');
+    const placeholder = document.getElementById('placeholder');
+    const channelListEl = document.getElementById('channel-list');
+    const nowPlayingText = document.getElementById('now-playing-text');
+    const statusDot = document.getElementById('status-dot');
+    let hls = null;
+    let activeIndex = -1;
+
+    // Генерация списка каналов
+    channels.forEach((ch, i) => {
+      const div = document.createElement('div');
+      div.className = 'channel-item';
+      div.innerHTML = `
+        <div class="channel-number">${i + 1}</div>
+        <div class="channel-info">
+          <h3>${ch.name}</h3>
+          <p>${ch.desc}</p>
+        </div>
+      `;
+      div.addEventListener('click', () => playChannel(i));
+      channelListEl.appendChild(div);
+    });
+
+    // Воспроизведение канала
+    function playChannel(index) {
+      const ch = channels[index];
+      activeIndex = index;
+
+      // Обновляем активный класс
+      document.querySelectorAll('.channel-item').forEach((el, i) => {
+        el.classList.toggle('active', i === index);
+      });
+
+      // Обновляем инфо-панель
+      nowPlayingText.textContent = `${ch.name} — ${ch.desc}`;
+      statusDot.style.display = 'block';
+      placeholder.style.display = 'none';
+
+      // Уничтожаем предыдущий HLS-инстанс
+      if (hls) {
+        hls.destroy();
+        hls = null;
+      }
+
+      const url = ch.url;
+
+      if (Hls.isSupported()) {
+        hls = new Hls({
+          enableWorker: true,
+          lowLatencyMode: true
+        });
+        hls.loadSource(url);
+        hls.attachMedia(video);
+        hls.on(Hls.Events.MANIFEST_PARSED, () => {
+          video.play().catch(() => {});
+        });
+        hls.on(Hls.Events.ERROR, (event, data) => {
+          if (data.fatal) {
+            nowPlayingText.textContent = `⚠ Ошибка: ${ch.name} недоступен`;
+            statusDot.style.display = 'none';
+          }
+        });
+      } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        // Safari
+        video.src = url;
+        video.addEventListener('loadedmetadata', () => {
+          video.play().catch(() => {});
+        });
+      } else {
+        nowPlayingText.textContent = '⚠ Ваш браузер не поддерживает HLS';
+      }
+    }
+
+    // Полный экран
+    function toggleFullscreen() {
+      if (!document.fullscreenElement) {
+        video.requestFullscreen().catch(() => {});
+      } else {
+        document.exitFullscreen();
+      }
+    }
+
+    // Горячие клавиши
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowUp' && activeIndex > 0) {
+        playChannel(activeIndex - 1);
+      } else if (e.key === 'ArrowDown' && activeIndex < channels.length - 1) {
+        playChannel(activeIndex + 1);
+      } else if (e.key === 'f' || e.key === 'F') {
+        toggleFullscreen();
+      }
+    });
+  </script>
+
+</body>
+</html>
